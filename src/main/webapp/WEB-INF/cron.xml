@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+    <cron>
+        <url>/postUnisannioIngFeed</url>
+        <description>Invia eventuali nuovi feed dalla bacheca Unisannio di Ingegneria</description>
+        <schedule>every 5 minutes</schedule>
+        <timezone>Europe/Rome</timezone>
+    </cron>
+</cronentries>
